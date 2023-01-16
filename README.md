@@ -10,8 +10,6 @@ Install node.js using the command line with:
 npm install
 ```
 
-Verify Maven Installation
-
 ##### After checkout:
 
 Run the project using the command line with:
